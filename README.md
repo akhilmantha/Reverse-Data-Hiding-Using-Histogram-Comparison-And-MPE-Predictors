@@ -1,0 +1,2 @@
+# Reverse-Data-Hiding-Using-Histogram-Comparison-And-MPE-Predictors
+This concept is steganography where a message is encrypted in any kind of a media  and sent to the user. This process involves RC7 Algorithm(symmetric key ) and also uses predictors to fetch a noiseless Encrypted image. This experiment involves the use of an image so there is Histogram comparison of the image involved to show the variance between the sent and the received images.  
